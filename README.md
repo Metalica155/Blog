@@ -1,1 +1,1 @@
-blog
+Blog example from Laracast
